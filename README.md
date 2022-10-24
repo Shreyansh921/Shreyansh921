@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer with little bit of Frontend Knowledge</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh921&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh921" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyansh921" alt="shreyansh921" /></a> </p>
 
